@@ -1,4 +1,4 @@
-﻿Shader "Swifter/VFX/GlowingWisp"
+﻿Shader "Swifter/Aether/Aether/VFX/GlowingWisp"
 {
     Properties
     {

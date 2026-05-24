@@ -1,4 +1,4 @@
-Shader "Swifter/Ribbon"
+Shader "Swifter/Aether/Ribbon"
 {
     Properties
     {

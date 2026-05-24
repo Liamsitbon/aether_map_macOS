@@ -1,4 +1,4 @@
-Shader "Swifter/CrackedGround"
+Shader "Swifter/Aether/CrackedGround"
 {
     Properties
     {

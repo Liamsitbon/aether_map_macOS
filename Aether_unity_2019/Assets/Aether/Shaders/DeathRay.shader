@@ -1,4 +1,4 @@
-Shader "Swifter/DeathRay"
+Shader "Swifter/Aether/DeathRay"
 {
     Properties
     {

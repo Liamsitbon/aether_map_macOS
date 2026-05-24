@@ -1,4 +1,4 @@
-﻿Shader "Swifter/StencilMask"
+﻿Shader "Swifter/Aether/StencilMask"
 {
     Properties
     {

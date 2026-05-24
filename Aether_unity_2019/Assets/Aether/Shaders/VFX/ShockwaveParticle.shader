@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/ShockwaveParticle"
+Shader "Swifter/Aether/VFX/ShockwaveParticle"
 {
     Properties
     {

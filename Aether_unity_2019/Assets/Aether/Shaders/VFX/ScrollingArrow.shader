@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/ScrollingArrow"
+Shader "Swifter/Aether/VFX/ScrollingArrow"
 {
     Properties
     {

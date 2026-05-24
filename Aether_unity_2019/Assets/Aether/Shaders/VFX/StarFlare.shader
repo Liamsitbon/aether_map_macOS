@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/StarFlare"
+Shader "Swifter/Aether/VFX/StarFlare"
 {
 Properties
     {

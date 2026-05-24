@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/Strand"
+Shader "Swifter/Aether/VFX/Strand"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-Shader "Swifter/Blit/Bokeh"
+Shader "Swifter/Aether/Blit/Bokeh"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-Shader "Swifter/CustomNoteArrow"
+Shader "Swifter/Aether/CustomNoteArrow"
 {
     Properties
     {

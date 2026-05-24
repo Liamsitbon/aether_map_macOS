@@ -1,4 +1,4 @@
-Shader "Swifter/DropArrow"
+Shader "Swifter/Aether/DropArrow"
 {
     Properties
     {

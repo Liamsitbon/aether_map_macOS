@@ -1,4 +1,4 @@
-Shader "Swifter/HorizonSkybox"
+Shader "Swifter/Aether/HorizonSkybox"
 {
     Properties
     {

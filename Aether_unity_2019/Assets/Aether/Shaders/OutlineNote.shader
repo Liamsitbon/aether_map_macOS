@@ -1,4 +1,4 @@
-Shader "Swifter/OutlineNote"
+Shader "Swifter/Aether/OutlineNote"
 {
     Properties
     {

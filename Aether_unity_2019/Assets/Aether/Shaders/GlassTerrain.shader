@@ -1,4 +1,4 @@
-Shader "Swifter/GlassTerrain"
+Shader "Swifter/Aether/GlassTerrain"
 {
     Properties
     {

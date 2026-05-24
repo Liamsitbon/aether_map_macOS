@@ -1,4 +1,4 @@
-﻿Shader "Swifter/SimpleColor"
+﻿Shader "Swifter/Aether/SimpleColor"
 {
     Properties
     {

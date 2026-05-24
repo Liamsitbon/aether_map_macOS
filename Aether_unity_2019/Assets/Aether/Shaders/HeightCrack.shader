@@ -1,4 +1,4 @@
-Shader "Swifter/HeightCrack"
+Shader "Swifter/Aether/HeightCrack"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-Shader "Swifter/PropagatingGrid"
+Shader "Swifter/Aether/PropagatingGrid"
 {
     Properties
     {

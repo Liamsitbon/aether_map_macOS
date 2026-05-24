@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/TriangleArtifact"
+Shader "Swifter/Aether/VFX/TriangleArtifact"
 {
     Properties
     {

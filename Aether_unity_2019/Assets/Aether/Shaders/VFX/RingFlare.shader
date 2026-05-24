@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/RingFlare"
+Shader "Swifter/Aether/VFX/RingFlare"
 {
     Properties
     {

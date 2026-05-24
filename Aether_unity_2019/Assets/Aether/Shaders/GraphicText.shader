@@ -1,4 +1,4 @@
-Shader "Swifter/GraphicText"
+Shader "Swifter/Aether/GraphicText"
 {
     Properties
     {

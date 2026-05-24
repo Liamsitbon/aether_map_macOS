@@ -1,4 +1,4 @@
-Shader "Swifter/SaberTrail"
+Shader "Swifter/Aether/SaberTrail"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-Shader "Swifter/Blit/SimpleColor"
+Shader "Swifter/Aether/Blit/SimpleColor"
 {
     Properties
     {

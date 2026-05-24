@@ -1,4 +1,4 @@
-Shader "Swifter/Lattice"
+Shader "Swifter/Aether/Lattice"
 {
     Properties
     {

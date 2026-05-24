@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/GraphicFire"
+Shader "Swifter/Aether/VFX/GraphicFire"
 {
     Properties
     {

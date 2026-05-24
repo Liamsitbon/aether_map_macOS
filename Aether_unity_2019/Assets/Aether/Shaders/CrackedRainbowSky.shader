@@ -1,4 +1,4 @@
-﻿Shader "Swifter/CrackedRainbowSky"
+﻿Shader "Swifter/Aether/CrackedRainbowSky"
 {
     Properties
     {

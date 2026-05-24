@@ -1,4 +1,4 @@
-Shader "Swifter/TriangleExplosion"
+Shader "Swifter/Aether/TriangleExplosion"
 {
     Properties
     {

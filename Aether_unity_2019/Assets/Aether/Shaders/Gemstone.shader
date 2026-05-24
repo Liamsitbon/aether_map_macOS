@@ -1,4 +1,4 @@
-Shader "Swifter/Gemstone"
+Shader "Swifter/Aether/Gemstone"
 {
     Properties
     {

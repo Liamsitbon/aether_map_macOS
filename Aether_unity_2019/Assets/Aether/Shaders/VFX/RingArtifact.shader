@@ -1,4 +1,4 @@
-Shader "Swifter/VFX/RingArtifact"
+Shader "Swifter/Aether/VFX/RingArtifact"
 {
     Properties
     {

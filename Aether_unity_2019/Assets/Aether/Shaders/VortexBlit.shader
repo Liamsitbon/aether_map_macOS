@@ -1,4 +1,4 @@
-Shader "Swifter/VortexBlit"
+Shader "Swifter/Aether/VortexBlit"
 {
     Properties
     {
