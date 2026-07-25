@@ -22,8 +22,8 @@ Please respect this!
 
 
 
-All In Level Credits And Source Credits To [Swifter](https://github.com/Swifter1243)
+All In Level Credits And Source Credits To [Swifter1243](https://github.com/Swifter1243)
 
-(This Fork Created From: [Swifter](https://github.com/Swifter1243/aether_map))
+(This Fork Created From: [Swifter1243/Aether_Map](https://github.com/Swifter1243/aether_map))
 
 (And Credit To Me for the Github macOS Port For The Source And Android-Quest Version...)
