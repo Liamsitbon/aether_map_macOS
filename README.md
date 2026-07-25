@@ -1,6 +1,6 @@
 [![743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳](https://github.com/user-attachments/assets/3664b6f7-0170-488f-8fdb-66f8afced4fb)](https://youtu.be/qZ1prxep0Wc)
 
-Only Quest Supported.
+In My link Its Only Supported On Quest.
 (You Need Vivify Port Or Vivify Official Qmod In The Future)
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
