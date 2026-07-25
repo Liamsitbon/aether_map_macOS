@@ -1,6 +1,6 @@
 [![743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳](https://github.com/user-attachments/assets/3664b6f7-0170-488f-8fdb-66f8afced4fb)](https://youtu.be/qZ1prxep0Wc)
 
-In My link Its Only Supported On Quest.
+In My Link Its Supported On Quest And PC.
 (You Need Vivify Port Or Vivify Official Qmod In The Future)
 
 **!!You Are Building It You Need To Download The Zip In The Release And Unzip It In To The Source!!**
@@ -21,6 +21,6 @@ Here you will find the source for Swifter Beat Saber map `743⁺Aether*✧ ˳ �
 
 All In Level Credits And Source Credits To [Swifter1243](https://github.com/Swifter1243)
 
-(This Fork Created From: [Swifter1243/Aether_Map](https://github.com/Swifter1243/aether_map))-(Swifter Source Can Build Quest(Android) Version In Windows)
+(This Fork Created From: [Swifter1243/Aether_Map](https://github.com/Swifter1243/aether_map))-(Swifter Source Can Build Quest-(Android) And PC-(Windows) Version In Windows)
 
 (And Maybe Credit To Me for the Github macOS Port For The Source And Android-Quest Version...)
