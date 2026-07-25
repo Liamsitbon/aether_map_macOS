@@ -3,9 +3,7 @@
 In My link Its Only Supported On Quest.
 (You Need Vivify Port Or Vivify Official Qmod In The Future)
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!If You Are Building It You Need To Download The Zip In The Release And Unzip It In The Source!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!You Are Building It You Need To Download The Zip In The Release And Unzip It In To The Source!!
 # What is this?
 
 Here you will find the source for Swifter Beat Saber map `743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳`
